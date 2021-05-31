@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "mrcelulares",
+    "slug": "mrcelulares",
+    "privacy": "public",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./imagens/flame.png",
+    "splash": {
+      "image": "./imagens/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#F57C00"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
