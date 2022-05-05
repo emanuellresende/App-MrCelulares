@@ -4,9 +4,9 @@
 * Primeiramente para inicia-lo de git clone
 * Logo apos va ate a pasta do projeto:
 * npm install / yarn install
-
 * logo apos isso para rodar o projeto:
-* yarn start/ npm start ![Screenshot_2022 04 24_17 21 04 727](https://user-images.githubusercontent.com/46730164/166986226-dcac7e27-f4de-48ce-b29b-567419b690ad.png)
+* yarn start/ npm start !
+[Screenshot_2022 04 24_17 21 04 727](https://user-images.githubusercontent.com/46730164/166986226-dcac7e27-f4de-48ce-b29b-567419b690ad.png)
 ![Screenshot_2022 04 24_17 21 16 043](https://user-images.githubusercontent.com/46730164/166986228-14dfedab-e9b3-4f81-9c20-2168b64ed24b.png)
 ![Screenshot_2022 04 24_17 21 30 977](https://user-images.githubusercontent.com/46730164/166986232-7f37ae85-7174-48eb-9a21-76dca24bf023.png)
 ![Screenshot_2022 04 24_17 22 02 276](https://user-images.githubusercontent.com/46730164/166986237-29283e77-d934-4eeb-a8c0-4a2acbd6367b.png)
