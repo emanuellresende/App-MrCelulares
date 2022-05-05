@@ -1,5 +1,5 @@
 <h1 align="center">Mr Celulares</h1>
-<p align="center">Aplicativo desenvolvido para a empresa Mr Celulares para realizar o cadastro de seus aparelhos</p>
+<p align="center">Aplicativo desenvolvido em react-native para a empresa Mr Celulares para realizar o cadastro de seus aparelhos</p>
 
 * Primeiramente para inicia-lo de git clone
 * Logo apos va ate a pasta do projeto:
